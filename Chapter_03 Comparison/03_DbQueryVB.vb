@@ -1,4 +1,5 @@
 REM file: 03_DbQueryVB.vb
+' Example for a database query with Visual Basic
 
 Imports System.Data
 Imports System.Data.Sqlite

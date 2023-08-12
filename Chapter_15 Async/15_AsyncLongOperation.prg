@@ -1,4 +1,5 @@
 // file: 15_AsyncLongOperation.prg
+// A very simple example of an async long operation
 
 using System.IO
 using System.Threading

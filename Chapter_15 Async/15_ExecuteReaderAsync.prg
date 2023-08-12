@@ -1,5 +1,5 @@
 // file: 15_ExecuteReaderAsync.prg
-// Example or an asynchronous database query
+// An example for an asynchronous database query
 
 Using System.Collections.Generic
 Using System.Data

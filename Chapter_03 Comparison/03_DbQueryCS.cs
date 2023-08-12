@@ -1,4 +1,5 @@
 // file: 03_DbQueryCS.cs
+// Example for a database query with C#
 
 using System;
 using System.Data;

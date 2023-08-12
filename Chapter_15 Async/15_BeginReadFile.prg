@@ -1,5 +1,5 @@
 // file: AsyncFileRead.prg
-// example for asynchronously reading a large text file
+// An example for asynchronously reading a large text file
 
 using System.IO
 

@@ -1,5 +1,5 @@
 // file: 14_WriteTextFile.prg
-// Writing a text file with the file class
+// Example for writing a text file with the file class
 
 using System.IO
 using System.Collections.Generic

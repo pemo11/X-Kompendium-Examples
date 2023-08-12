@@ -1,5 +1,5 @@
 // file: 15_TaskCancellation.prg
-// example for the cancellation of a task
+// An example for the cancellation of a task
 
 using System.Threading
 using System.Threading.Tasks

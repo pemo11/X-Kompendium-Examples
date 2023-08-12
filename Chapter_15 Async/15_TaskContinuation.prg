@@ -1,5 +1,5 @@
 // File: 15_TaskContinuation.prg
-// Example for ContinueWith()
+// An example for ContinueWith()
 
 using System.Threading.Tasks
 

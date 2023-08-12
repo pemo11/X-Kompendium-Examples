@@ -1,5 +1,5 @@
 // File: 15_AsyncFileCopy.prg
-// How to use an asynchronous method
+// Example for how to use an asynchronous method
 
 // public virtual System.Threading.Tasks.Task CopyToAsync (Stream destination, int bufferSize, CancellationToken cancellationToken)
 

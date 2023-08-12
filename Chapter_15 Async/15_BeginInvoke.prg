@@ -1,5 +1,5 @@
 // file: BeginInvoke.prg
-// An example for an asynchronous method call
+// An example for an asynchronous method call with BeginInvoke()
 
 using System.Threading
 
