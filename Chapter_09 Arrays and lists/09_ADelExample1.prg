@@ -1,6 +1,6 @@
-// file: 09_ADel_Example1.prg
-// Deleting an array element with ADel()
-// xsc .\09_ADel_Example1.prg /dialect:VO /r:../Assemblies/XSharp.Core.dll /r:../Assemblies/XSharp.RT.dll    
+// file: 09_ADelExample1.prg
+// Deleting an array element with ADel
+// xsc .\09_ADelExample1.prg /dialect:VO /r:../Assemblies/XSharp.Core.dll /r:../Assemblies/XSharp.RT.dll    
 
 Function Start() As Void
     Local aValues := {} As Array
@@ -18,4 +18,3 @@ Function Start() As Void
     For Var i := 1 Upto ALen(aValues)
         ? aValues[i,1]
     Next
-    Return

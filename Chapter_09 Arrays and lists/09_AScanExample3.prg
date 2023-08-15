@@ -1,6 +1,6 @@
-// file: 09_Ascan_Example1.prg
-// AScan examples - scanning a 2d array until all values found
-// compile with  xsc .\09_Ascan_Example1.prg /dialect:VO /r:XSharp.Core.dll /r:XSharp.RT.dll                               
+// file: 09_Ascan_Example3.prg
+// Scanning a 2d array with AScan until all values found
+// compile with xsc .\09_Ascan_Example3.prg /dialect:VO /r:XSharp.Core.dll /r:XSharp.RT.dll                               
 
 Function Start() as Void
   Local AValues := {} As Array
