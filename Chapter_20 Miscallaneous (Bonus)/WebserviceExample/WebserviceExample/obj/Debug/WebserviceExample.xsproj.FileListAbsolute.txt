@@ -1,0 +1,14 @@
+D:\2023\XSharpExamplesBox\XKompendium\Chapter 20\WebserviceExample\WebserviceExample\obj\Debug\WebserviceExample.xsproj.AssemblyReference.cache
+D:\2023\XSharpExamplesBox\XKompendium\Chapter 20\WebserviceExample\WebserviceExample\obj\Debug\WebserviceExample.xsproj.SuggestedBindingRedirects.cache
+D:\2023\XSharpExamplesBox\XKompendium\Chapter 20\WebserviceExample\WebserviceExample\obj\Debug\WebserviceExample.Properties.Resources.resources
+D:\2023\XSharpExamplesBox\XKompendium\Chapter 20\WebserviceExample\WebserviceExample\obj\Debug\WebserviceExample.xsproj.GenerateResource.cache
+D:\2023\XSharpExamplesBox\XKompendium\Chapter 20\WebserviceExample\WebserviceExample\obj\Debug\WebserviceExample.xsproj.CoreCompileInputs.cache
+D:\2023\XSharpExamplesBox\XKompendium\Chapter 20\WebserviceExample\WebserviceExample\bin\Debug\WebserviceExample.exe.config
+D:\2023\XSharpExamplesBox\XKompendium\Chapter 20\WebserviceExample\WebserviceExample\bin\Debug\WebserviceExample.exe
+D:\2023\XSharpExamplesBox\XKompendium\Chapter 20\WebserviceExample\WebserviceExample\bin\Debug\WebserviceExample.pdb
+D:\2023\XSharpExamplesBox\XKompendium\Chapter 20\WebserviceExample\WebserviceExample\obj\Debug\WebserviceExample.MainForm.resources
+D:\2023\XSharpExamplesBox\XKompendium\Chapter 20\WebserviceExample\WebserviceExample\obj\Debug\WebserviceExample.exe
+D:\2023\XSharpExamplesBox\XKompendium\Chapter 20\WebserviceExample\WebserviceExample\obj\Debug\WebserviceExample.pdb
+D:\2023\XSharpExamplesBox\XKompendium\Chapter 20\WebserviceExample\WebserviceExample\bin\Debug\Newtonsoft.Json.dll
+D:\2023\XSharpExamplesBox\XKompendium\Chapter 20\WebserviceExample\WebserviceExample\bin\Debug\Newtonsoft.Json.xml
+D:\2023\XSharpExamplesBox\XKompendium\Chapter 20\WebserviceExample\WebserviceExample\obj\Debug\WebserviceExample.xsproj.CopyComplete

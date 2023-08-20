@@ -1,0 +1,5 @@
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.xsproj.AssemblyReference.cache
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.xsproj.SuggestedBindingRedirects.cache
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.xsproj.GenerateResource.cache
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.xsproj.CoreCompileInputs.cache

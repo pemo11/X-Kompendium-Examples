@@ -1,5 +1,5 @@
 // file: 09_EmptyArrayTest2.prg
-// Tests if a .Net array as only 0 values with AScan
+// Tests if a .Net array as only 0 values with LINQ
 
 using System.Linq
 

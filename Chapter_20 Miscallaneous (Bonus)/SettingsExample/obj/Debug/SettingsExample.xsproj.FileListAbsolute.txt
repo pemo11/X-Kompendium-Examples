@@ -1,0 +1,11 @@
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\SettingsExample\obj\Debug\SettingsExample.xsproj.AssemblyReference.cache
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\SettingsExample\obj\Debug\SettingsExample.xsproj.SuggestedBindingRedirects.cache
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\SettingsExample\obj\Debug\SettingsExample.Properties.Resources.resources
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\SettingsExample\obj\Debug\SettingsExample.xsproj.GenerateResource.cache
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\SettingsExample\obj\Debug\SettingsExample.xsproj.CoreCompileInputs.cache
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\SettingsExample\bin\Debug\SettingsExample.exe
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\SettingsExample\bin\Debug\SettingsExample.pdb
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\SettingsExample\obj\Debug\SettingsExample.MainForm.resources
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\SettingsExample\obj\Debug\SettingsExample.exe
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\SettingsExample\obj\Debug\SettingsExample.pdb
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\SettingsExample\bin\Debug\SettingsExample.exe.config
