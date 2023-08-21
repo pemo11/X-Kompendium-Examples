@@ -31,6 +31,14 @@ Begin Namespace WebserviceExample
             Var jObjects := ((JObject)customers)["results"]
             Return JArray.FromObject(jObjects)
             
+        Private Method Convert2TypedCollection(jsonText As String) As List<Customer>
+            Var customerList := List<Customer>{}
+            Var customerObjects := JObject.Parse(jsonText)
+            Foreach Var Customer In customerObjects["results"]
+                customerList:Add(Customer:ToObject<Customer>())
+            Next
+            Return customerList
+            
         Private Method bnGetDataUntyped_Click(sender As Object, e As EventArgs) As Void Strict
             Var wsUrl := ConfigurationManager.AppSettings["NwCustomers"]
             infoMsg := i"Calling {wsUrl}"
@@ -44,11 +52,10 @@ Begin Namespace WebserviceExample
             
             Try
                 Local response := request:GetResponse() As WebResponse
-                // Response-Status: {response.StatusCode} 
                 infoMsg := i"Content-Length: {response.ContentLength}"
                 lbStatus:Items:Add(infoMsg)
                 Begin Using Var responseStream := response:GetResponseStream()
-                    Var reader := StreamReader{responseStream, System.Text.Encoding.Default}
+                    Var reader := StreamReader{responseStream, System.Text.Encoding.UTF8}
                     jsonText := reader:ReadToEnd()
                     wsObjects := Convert2JArray(jsonText)
                     infoMsg := i"{wsObjects.Count} untyped objects retrieved"
@@ -67,7 +74,36 @@ Begin Namespace WebserviceExample
         End Method
         
         Private Method bnGetDataTyped_Click(sender As Object, e As EventArgs) As Void Strict
-            Nop
+            Var wsUrl := ConfigurationManager.AppSettings["NwCustomers"]
+            infoMsg := i"Calling {wsUrl}"
+            lbStatus:Items:Add(infoMsg)
+            lbStatus:SelectedIndex := lbStatus:Items:Count - 1
+            bnGetDataTyped:Enabled := False
+            Local request := WebRequest.Create(wsUrl) As WebRequest
+            request:Method := "GET"
+            Local jsonText As String
+            Local wsObjects As List<Customer>
+            Try
+                Local response := request:GetResponse() As WebResponse
+                infoMsg := i"Content-Length: {response.ContentLength}"
+                lbStatus:Items:Add(infoMsg)
+                Begin Using Var responseStream := response:GetResponseStream()
+                    Var reader := StreamReader{responseStream, System.Text.Encoding.UTF8}
+                    jsonText := reader:ReadToEnd()
+                    wsObjects := Convert2TypedCollection(jsonText)
+                    infoMsg := i"{wsObjects.Count} typed objects retrieved"
+                    lbStatus:Items:Add(infoMsg)
+                    lbStatus:SelectedIndex := lbStatus:Items:Count - 1
+                End Using
+                dvData:DataSource := wsObjects
+            Catch ex As SystemException
+                infoMsg := i"!!! Error calling the webservice ({ex:Message})"
+                lbStatus:Items:Add(infoMsg)
+                lbStatus:SelectedIndex := lbStatus:Items:Count - 1
+            Finally
+                bnGetDataTyped:Enabled := True
+            End Try
+            Return
         End Method
 
     End Class 

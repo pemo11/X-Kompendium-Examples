@@ -1,6 +1,6 @@
 //
 // Comments: This file contains the prototypes of the pseudo functions that are built into the compiler
-// Location: D:\2023\XSharpExamplesBox\XKompendium\Chapter 20\WebserviceExample\.vs\WebserviceExample\BuiltInFunctions.prg
+// Location: G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\WebserviceExample\.vs\WebserviceExample\BuiltInFunctions.prg
 // Version :  XSharpModel, Version=2.14.0.4, Culture=neutral, PublicKeyToken=ed555a0467764586
 
 /// <summary>Inline Conditional Expression</summary>

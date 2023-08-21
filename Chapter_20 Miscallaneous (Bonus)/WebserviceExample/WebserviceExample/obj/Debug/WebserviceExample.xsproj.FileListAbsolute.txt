@@ -12,3 +12,17 @@ D:\2023\XSharpExamplesBox\XKompendium\Chapter 20\WebserviceExample\WebserviceExa
 D:\2023\XSharpExamplesBox\XKompendium\Chapter 20\WebserviceExample\WebserviceExample\bin\Debug\Newtonsoft.Json.dll
 D:\2023\XSharpExamplesBox\XKompendium\Chapter 20\WebserviceExample\WebserviceExample\bin\Debug\Newtonsoft.Json.xml
 D:\2023\XSharpExamplesBox\XKompendium\Chapter 20\WebserviceExample\WebserviceExample\obj\Debug\WebserviceExample.xsproj.CopyComplete
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\WebserviceExample\WebserviceExample\bin\Debug\WebserviceExample.exe.config
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\WebserviceExample\WebserviceExample\bin\Debug\WebserviceExample.exe
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\WebserviceExample\WebserviceExample\bin\Debug\WebserviceExample.pdb
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\WebserviceExample\WebserviceExample\bin\Debug\Newtonsoft.Json.dll
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\WebserviceExample\WebserviceExample\bin\Debug\Newtonsoft.Json.xml
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\WebserviceExample\WebserviceExample\obj\Debug\WebserviceExample.xsproj.AssemblyReference.cache
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\WebserviceExample\WebserviceExample\obj\Debug\WebserviceExample.xsproj.SuggestedBindingRedirects.cache
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\WebserviceExample\WebserviceExample\obj\Debug\WebserviceExample.Properties.Resources.resources
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\WebserviceExample\WebserviceExample\obj\Debug\WebserviceExample.MainForm.resources
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\WebserviceExample\WebserviceExample\obj\Debug\WebserviceExample.xsproj.GenerateResource.cache
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\WebserviceExample\WebserviceExample\obj\Debug\WebserviceExample.xsproj.CoreCompileInputs.cache
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\WebserviceExample\WebserviceExample\obj\Debug\WebserviceExample.xsproj.CopyComplete
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\WebserviceExample\WebserviceExample\obj\Debug\WebserviceExample.exe
+G:\2023\X#-Kompendium-Examples\Chapter_20 Miscallaneous (Bonus)\WebserviceExample\WebserviceExample\obj\Debug\WebserviceExample.pdb
