@@ -1,10 +1,10 @@
-==============================  
+==============================
 # X# Kompendium - the examples  
 ==============================
 
-This repo contains the examples for my book "X# Kompendium".
+This repo contains the examples for my book "The X# Kompendium".
 
-You will find the book in the *MkDocs* format here:
+You will find the book (without the "bonus chapters") in the *MkDocs* format here:
 
 [https://nanobooks23.de](https://nanobooks23.de)
 
