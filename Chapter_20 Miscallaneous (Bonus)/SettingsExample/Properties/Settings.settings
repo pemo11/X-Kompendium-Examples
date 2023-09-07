@@ -1,9 +1,0 @@
-﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SettingsExample" GeneratedClassName="Settings">
-  <Profiles />
-  <Settings>
-    <Setting Name="FormBackground" Type="System.Drawing.Color" Scope="Application">
-      <Value Profile="(Default)">Blue</Value>
-    </Setting>
-  </Settings>
-</SettingsFile>

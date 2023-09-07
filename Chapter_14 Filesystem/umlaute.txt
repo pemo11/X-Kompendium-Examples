@@ -1,6 +1,0 @@
-Vorsicht vor Umlauts
-This is a sentence with an ä
-This is a sentence with an ö
-This is a sentence with an ü
-This is a sentence with an ß
-How many umlauts were printed correctly?
