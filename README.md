@@ -1,5 +1,5 @@
-==============================
-# X# Kompendium - the examples
+==============================  
+# X# Kompendium - the examples  
 ==============================
 
 This repo contains the examples for my book "X# Kompendium".
