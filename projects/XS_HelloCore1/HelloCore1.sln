@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{AA6C8D78-22FF-423A-9C7C-5F2393824E04}") = "HelloCore1", "HelloCore1.xsproj", "{7EC7F49C-8F0A-407F-AB0D-CF425AF760CF}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {595CD927-0E09-414C-AB8B-CC7E8F32B584}
+	EndGlobalSection
+EndGlobal

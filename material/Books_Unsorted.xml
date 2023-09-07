@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<books>
+  <book id="1002" pubYear="1968">
+    <author>Guss</author>
+    <title>Cobol is the future</title>
+  </book>
+  <book id="1001" pubYear="2012">
+    <author>Pemo</author>
+    <title>X# is much better</title>
+  </book>
+  <book id="1006" pubYear="1967">
+    <author>Paul</author>
+    <title>Algol is the future</title>
+  </book>
+  <book id="1003" pubYear="1985">
+    <author>Charles</author>
+    <title>Windows programm</title>
+  </book>
+  <book id="1000" pubYear="2010">
+    <author>Susi</author>
+    <title>C# is the best</title>
+  </book>
+  <book id="1005" pubYear="1955">
+    <author>Ken</author>
+    <title>Learn Fortran now</title>
+  </book>
+</books>
